@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 547,
-    "timeDay": 547,
-    "timeWeek": 547,
-    "timeMonth": 547,
-    "timeYear": 547,
+    "time": 644,
+    "timeDay": 644,
+    "timeWeek": 644,
+    "timeMonth": 644,
+    "timeYear": 644,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://aqurusmc.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/aqurusmc.xyz.ico",
     "slug": "main-website",
-    "status": "up",
-    "uptime": "33.20%",
-    "uptimeDay": "33.20%",
-    "uptimeWeek": "33.20%",
-    "uptimeMonth": "33.20%",
-    "uptimeYear": "33.20%",
-    "time": 241,
-    "timeDay": 241,
-    "timeWeek": 241,
-    "timeMonth": 241,
-    "timeYear": 241,
+    "status": "down",
+    "uptime": "35.39%",
+    "uptimeDay": "35.39%",
+    "uptimeWeek": "35.39%",
+    "uptimeMonth": "35.39%",
+    "uptimeYear": "35.39%",
+    "time": 240,
+    "timeDay": 240,
+    "timeWeek": 240,
+    "timeMonth": 240,
+    "timeYear": 240,
     "dailyMinutesDown": {
-      "2023-10-28": 543
+      "2023-10-28": 533
     }
   }
 ]
