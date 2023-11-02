@@ -22,12 +22,12 @@
     "url": "https://aqurusmc.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/aqurusmc.xyz.ico",
     "slug": "main-website",
-    "status": "up",
-    "uptime": "29.97%",
-    "uptimeDay": "31.82%",
-    "uptimeWeek": "29.97%",
-    "uptimeMonth": "29.97%",
-    "uptimeYear": "29.97%",
+    "status": "down",
+    "uptime": "31.10%",
+    "uptimeDay": "33.34%",
+    "uptimeWeek": "31.10%",
+    "uptimeMonth": "31.10%",
+    "uptimeYear": "31.10%",
     "time": 276,
     "timeDay": 234,
     "timeWeek": 276,
@@ -39,7 +39,7 @@
       "2023-10-31": 1039,
       "2023-10-30": 1064,
       "2023-10-29": 996,
-      "2023-10-28": 543
+      "2023-10-28": 486
     }
   }
 ]
