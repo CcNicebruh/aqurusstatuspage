@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-survival-server",
     "status": "down",
-    "uptime": "84.94%",
-    "uptimeDay": "46.02%",
-    "uptimeWeek": "84.94%",
-    "uptimeMonth": "84.94%",
-    "uptimeYear": "84.94%",
+    "uptime": "84.85%",
+    "uptimeDay": "45.64%",
+    "uptimeWeek": "84.85%",
+    "uptimeMonth": "84.85%",
+    "uptimeYear": "84.85%",
     "time": 265,
     "timeDay": 270,
     "timeWeek": 265,
     "timeMonth": 265,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2023-11-03": 777
+      "2023-11-03": 783
     }
   },
   {
@@ -24,23 +24,23 @@
     "url": "https://aqurusmc.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/aqurusmc.xyz.ico",
     "slug": "main-website",
-    "status": "up",
-    "uptime": "49.09%",
-    "uptimeDay": "24.24%",
-    "uptimeWeek": "49.09%",
-    "uptimeMonth": "49.09%",
-    "uptimeYear": "49.09%",
-    "time": 237,
+    "status": "down",
+    "uptime": "51.25%",
+    "uptimeDay": "24.23%",
+    "uptimeWeek": "51.25%",
+    "uptimeMonth": "51.25%",
+    "uptimeYear": "51.25%",
+    "time": 236,
     "timeDay": 117,
-    "timeWeek": 237,
-    "timeMonth": 237,
-    "timeYear": 237,
+    "timeWeek": 236,
+    "timeMonth": 236,
+    "timeYear": 236,
     "dailyMinutesDown": {
       "2023-11-03": 1045,
       "2023-11-02": 906,
       "2023-11-01": 992,
       "2023-10-31": 1039,
-      "2023-10-30": 817
+      "2023-10-30": 616
     }
   }
 ]
