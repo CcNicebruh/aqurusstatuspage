@@ -15,7 +15,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.aqurusmc.xyz
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://cdncf.vtuberhub.in.th/aquruslogo.png
   name: AQur Us Craft
   introTitle: "อัพไทม์เซิฟ AQur Us"
   introMessage: นี่คีออัพไทม์ เอาไว้เช็คว่าอะไรออนไลน์เเล้วบ้าง หรีอยังไม่ออนไลน์
